@@ -35,15 +35,19 @@ Skills are the key to progress in Stardew Valley. Your character has five differ
 FAQs
 -----
 **How much does it cost?**
+
 Stardew is currently $14.99 on all platforms except mobile, which is $4.99.
 
 **Who created it?**
+
 Stardew was developed solo by ConcernedApe (Eric Barone).
 
 **What programming language was it written in?**
+
 Stardew Valley was written in C++.
 
 **When was it released?**
+
 It was released on February 26th, 2016
 
 --------------------------
