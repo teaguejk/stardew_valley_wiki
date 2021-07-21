@@ -55,6 +55,18 @@ Troubleshooting & Support
 --------------------------
 Any questions can be sent to me teaguejk@appstate.edu, or you can contact the developers directly on their support page.
 
+------------------------------
+How to Contribute
+------------------------------
+You can support the devs by buying the game or buying merch.
+
+------------------------------
+Licensing
+------------------------------
+Website - Jaracah Teague
+Stardew Valley - ConcernedApe
+
+
 .. toctree::
    :maxdepth: 4
    :caption: Contents:
