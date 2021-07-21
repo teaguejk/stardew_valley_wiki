@@ -53,17 +53,21 @@ It was released on February 26th, 2016.
 --------------------------
 Troubleshooting & Support
 --------------------------
+
 Any questions can be sent to me teaguejk@appstate.edu, or you can contact the developers directly on their support page.
 
 ------------------------------
 How to Contribute
 ------------------------------
+
 You can support the devs by buying the game or buying merch.
 
 ------------------------------
 Licensing
 ------------------------------
+
 Website - Jaracah Teague
+
 Stardew Valley - ConcernedApe
 
 
