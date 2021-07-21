@@ -1,0 +1,5 @@
+#ignore ds_store, virual environment
+.DS_Store
+p3_env/
+docs/build/
+docs/source/_templates/
