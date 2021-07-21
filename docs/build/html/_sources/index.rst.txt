@@ -48,7 +48,7 @@ Stardew Valley was written in C++.
 
 **When was it released?**
 
-It was released on February 26th, 2016
+It was released on February 26th, 2016.
 
 --------------------------
 Troubleshooting & Support
