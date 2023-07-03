@@ -26,7 +26,7 @@ Who created it?
 Stardew was developed solo by ConcernedApe (Eric Barone).
 
 What programming language was it written in?
-Stardew Valley was written in C++.
+Stardew Valley was written in C#.
 
 When was it released?
 It was released on February 26th, 2016.
